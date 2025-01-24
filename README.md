@@ -78,6 +78,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - Scikit-learn
 - Pandas Team
 
----
+## ⭐ Show Your Support
 
-**Made with ❤️ by [Abhishek Mishra]**
+If this projects helps you, show some love by giving it a star! ⭐
+
+---
+Made with ❤️ by [Abhishek Mishra]
