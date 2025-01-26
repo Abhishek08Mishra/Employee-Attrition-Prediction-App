@@ -1,11 +1,11 @@
 import streamlit as st
+import joblib
 from user_interface import (
     display_intro,
     user_input_form,
     preprocess_input,
     make_prediction
 )
-import joblib
 
 # Load the trained model
 def load_model():
