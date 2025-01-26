@@ -53,9 +53,6 @@ def train_model(df):
         y_test_pred = model.predict(X_test_scaled)
         testing_accuracy = accuracy_score(y_test, y_test_pred)
 
-        # Calculate accuracy
-        accuracy = accuracy_score(y_test, y_pred)
-
         return model, accuracy, training_accuracy, testing_accuracy
     
     except Exception as e:
@@ -73,4 +70,3 @@ if __name__ == "__main__":
         print(f"Model Accuracy : {accuracy}")
         print(f"Training Accuracy : {training_accuracy}")
         print(f"Testing Accuracy : {testing_accuracy}")
-    
