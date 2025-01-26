@@ -3,9 +3,6 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler
 
 
-# Display app title and project information
-import streamlit as st
-
 def display_intro():
     """
     Display the app's title and introductory information.
