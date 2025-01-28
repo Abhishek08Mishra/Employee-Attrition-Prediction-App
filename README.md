@@ -30,7 +30,7 @@ This machine learning application predicts employee attrition using Logistic Reg
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/employee-attrition-prediction.git
+git clone https://github.com/Abhishek08Mishra/employee-attrition-prediction.git
 
 # Navigate to project directory
 cd employee-attrition-prediction
