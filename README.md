@@ -68,9 +68,10 @@ streamlit run app.py
 - **Twitter**: [(https://x.com/Abhi__57)]
 - **Email**: abishekmishra195@gmail.com
 
-## 📄 License
+## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+This project is licensed under the [MIT License](./LICENSE).  
+For more details, click the link to view the full text of the license.
 
 ## 🙌 Acknowledgements
 
