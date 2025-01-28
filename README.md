@@ -55,11 +55,11 @@ streamlit run app.py
 
 ## 🤝 How to Contribute
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Fork it
+2. Create your feature branch (`git checkout -b cool-feature`)
+3. Commit your changes (`git commit -am 'Added something cool'`)
+4. Push to the branch (`git push origin cool-feature`)
+5. Start a Pull Request
 
 ## 📧 Contact
 
